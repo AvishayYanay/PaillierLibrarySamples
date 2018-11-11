@@ -1,5 +1,5 @@
 #include <gmp.h>
-#include <paillier.h>
+#include "paillier.h"
 
 
 int main(int argc, char *argv[])

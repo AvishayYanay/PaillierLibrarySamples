@@ -3,7 +3,7 @@
 #include <fstream>
 #include <iostream>
 #include <gmp.h>
-#include <paillier.h>
+#include "paillier.h"
 #include <string>
 
 int main (int argc, char *argv[])
